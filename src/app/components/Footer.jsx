@@ -12,8 +12,7 @@ const Footer = () => {
       <div className="flex flex-col w-1/2  p-3 pl-6 ">
         <h1 className="text-3xl font-bold">FlashCart</h1>
         <p className="font-light">
-          &copy; {new Date().getFullYear()} Quick Delivery App. All rights
-          reserved.
+          &copy; 2024 Quick Delivery App. All rights reserved.
         </p>
       </div>
       <div className="w-1/2 p-3 flex gap-6 text-3xl justify-end items-center pr-6">
